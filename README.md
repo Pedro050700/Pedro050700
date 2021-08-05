@@ -1,9 +1,7 @@
 <h1 align="center"> Seja bem vinda e bem vindo! </h1>
 <hr />
 Hi, I'm Pedro Silva 👋
- <div>
-  <a href="https://github.com/Pedro050700">
-    </div>
+ 
  <hr />
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623848320791.png" width="400px" />
 <text>
