@@ -5,16 +5,16 @@ Hi, I'm Pedro Silva 👋
  <hr />
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623848320791.png" width="400px" />
 <text>
- 👩‍💻 Pratico backend e frontend com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js** e **React.js**;
- 💼 Graduação completa na faculdade de Analise e Desenvolvimento de sistemas no Senac RJ;
- 💼 Desenvolvedor jr FullStack na empresa D.S&ADV ;
- 💼 1 ano de estágio de Desenvolvedor Reactjs e Nodejs na D.S&ADV ;
- 👾 Meus hobbies são: 
-   Estudar sobre automatização; 
-   Dar aula de música;
-   Ler livros;
- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar, estou aberto para oportunidades CLT ou PJ;
- 📫 Se quiser pode enviar um email para jsilva.ph62@gmai.com.
+ 👩‍💻 Pratico backend e frontend com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js** e **React.js**; </br>
+ 💼 Graduação completa na faculdade de Analise e Desenvolvimento de sistemas no Senac RJ;</br>
+ 💼 Desenvolvedor jr FullStack na empresa D.S&ADV ;</br>
+ 💼 1 ano de estágio de Desenvolvedor Reactjs e Nodejs na D.S&ADV ;</br>
+ 👾 Meus hobbies são: </br>
+   Estudar sobre automatização; </br>
+   Dar aula de música;</br>
+   Ler livros;</br>
+ 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar, estou aberto para oportunidades CLT ou PJ;</br>
+ 📫 Se quiser pode enviar um email para jsilva.ph62@gmail.com.</br>
  </text>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Pedro-Silva" />
