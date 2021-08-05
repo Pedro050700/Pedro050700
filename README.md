@@ -16,9 +16,6 @@ Hi, I'm Pedro Silva 👋
  💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar, estou aberto para oportunidades CLT ou PJ;</br>
  📫 Se quiser pode enviar um email para jsilva.ph62@gmail.com</br>
  </text>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Pedro-Silva" />
-</p>
 <p>&nbsp;
 </p>
 
