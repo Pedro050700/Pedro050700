@@ -14,7 +14,7 @@ Hi, I'm Pedro Silva 👋
    Dar aula de música;</br>
    Ler livros;</br>
  💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar, estou aberto para oportunidades CLT ou PJ;</br>
- 📫 Se quiser pode enviar um email para jsilva.ph62@gmail.com.</br>
+ 📫 Se quiser pode enviar um email para jsilva.ph62@gmail.com</br>
  </text>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Pedro-Silva" />
@@ -37,7 +37,7 @@ Hi, I'm Pedro Silva 👋
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicom vinda e bem vindo!n/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" />
 </p>
 
    
