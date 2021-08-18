@@ -5,7 +5,7 @@ Hi, I'm Pedro Silva 👋
  <hr />
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623848320791.png" width="400px" />
 <text>
- 👩‍💻 Pratico backend e frontend com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js** e **React.js**; </br>
+ 👩‍💻 Pratico backend e frontend com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js**, **React.js** e **Java**; </br>
  💼 Graduação completa na faculdade de Analise e Desenvolvimento de sistemas no Senac RJ;</br>
  💼 Desenvolvedor jr FullStack na empresa D.S&ADV ;</br>
  💼 1 ano de estágio de Desenvolvedor Reactjs e Nodejs na D.S&ADV ;</br>
