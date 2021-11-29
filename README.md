@@ -7,7 +7,7 @@ Hi, I'm Pedro Silva 👋
 <text>
  👩‍💻 Pratico backend e frontend com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js**, **React.js** e **Java**; </br>
  💼 Graduação completa na faculdade de Analise e Desenvolvimento de sistemas no Senac RJ;</br>
- 💼 Desenvolvedor jr FullStack na empresa D.S&ADV ;</br>
+ 💼 Desenvolvedor jr FullStack na empresa CALCME LTDA ;</br>
  💼 1 ano de estágio de Desenvolvedor Reactjs e Nodejs na D.S&ADV ;</br>
  👾 Meus hobbies são: </br>
    Estudar sobre automatização; </br>
