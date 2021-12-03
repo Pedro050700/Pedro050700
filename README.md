@@ -13,7 +13,7 @@ Hi, I'm Pedro Silva 👋
    Estudar sobre automatização; </br>
    Dar aula de música;</br>
    Ler livros;</br>
- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar, estou aberto para oportunidades CLT ou PJ;</br>
+ 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;</br>
  📫 Se quiser pode enviar um email para jsilva.ph62@gmail.com</br>
  </text>
 <p>&nbsp;
