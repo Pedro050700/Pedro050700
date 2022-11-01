@@ -6,8 +6,9 @@ Hi, I'm Pedro Silva 👋
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623848320791.png" width="400px" />
 <text>
  👩‍💻 Desenvolvedorfront-end utilizando **Angular**, **React.js** e *Javascript*; </br>
- 💼 Graduação completa na faculdade de Analise e Desenvolvimento de sistemas no Senac RJ;</br>
+ 💼 Desenvolvedor jr Front-End na EY;</br>
  💼 Desenvolvedor jr FullStack na empresa CALCME LTDA ;</br>
+ 💼 Graduação completa na faculdade de Analise e Desenvolvimento de sistemas no Senac RJ;</br>
  💼 1 ano de estágio de Desenvolvedor Reactjs e Nodejs na D.S&ADV ;</br>
  👾 Meus hobbies são: </br>
    Tocar em bandas; </br>
